@@ -9,6 +9,9 @@
     <Company>sf</Company>
     <Description>server for report log</Description>
     <PackageProjectUrl>github.com/serfend/devserver</PackageProjectUrl>
+
+    <PackageId>SfTcpDevServer</PackageId>
+    <Version>1.0.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
